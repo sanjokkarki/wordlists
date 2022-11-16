@@ -1,0 +1,20 @@
+POST /Login.aspx HTTP/2
+Host: 67.228.225.60:9443
+Content-Length: 52
+Sec-Ch-Ua: "Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Linux"
+Accept: */*
+Origin: https://67.228.225.60:9443
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://67.228.225.60:9443/login.aspx
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,ne;q=0.7
+Cookie: .ASPXANONYMOUS=Md_WUF9pEetO1LF9WHaawf-ut9268Cg73073jGygm0pDggXviFroaXwDjH1ARlplxpdlzbA5fugiT04bsKLRvqbUVQLNNb98EXDnoMs-Nio5aSiqURL_1giiMBZ5kUNOwdkfPJBqx5Q0eb70S0ftsw2
+
+username=admin&password=YWRtaW4%3D&selfrestore=false
